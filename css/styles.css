@@ -54,6 +54,21 @@ footer{
     }
 }
 
+#capa-blog {
+    background-image: url("https://media.tenor.com/images/f06df3058afbe322c9e3c47a4197d09a/tenor.png");
+    background-size: cover !important;
+    background-position: center center !important;
+    height: 50vh !important;
+}
+
+.container-capa {
+    height: 50vh !important;
+}
+
+.card {
+    margin: 1rem;
+}
+
 .justifica-texto{
     text-align: justify;
 }
